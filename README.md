@@ -92,5 +92,10 @@ When the user selects Prediction, he or she is allowed to enter the test_size(nu
 1. Logistic Regression
 2. Decision Tree
 3. Random Forest
-4. Gradient Boosting classifier
+4. Gradient Boosting classifier\
 When the user selects any of the above classifiers, the model is automatically generated and then the model performance are displayed on the screen.
+
+![ch1 7](https://user-images.githubusercontent.com/68768460/93793014-c6f29e80-fc25-11ea-99dc-5d6106072de8.gif)
+
+WHen the results are generated and the user is not please with the results, he or she can tune the hyperparameters by just clicking or better still, selecting different model.\
+The user can equally visualize the metrics associated with each model developed.
