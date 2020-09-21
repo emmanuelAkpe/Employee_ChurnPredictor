@@ -40,10 +40,26 @@ The following describes the various columns of the employee dataset:
 ### Data Visualization
 When the user selects 'Visualize_dataset', he/she is presented with the options below:
 * Bar chart
-* Turnover Frequency on ohter Variables
+* Turnover Frequency on other Variables
 * pie chart
 * Correlation matrix
 * Visualize cluster of employees who quit
 
 When the user selects *Bar Chart* he or she is provided automatically with a bar graph showing the distribution of all the categorical columns in the dataset.
+
+![ch1 2](https://user-images.githubusercontent.com/68768460/93781694-2c8c5e00-fc19-11ea-8e30-87a1f9d001c6.gif)
+
+Insights made from the Dataset:
+1. Out of 14999 employees, 3571 left the company and 11428 stayed 
+2. Most of the employees have done 3-5 projects with only few of the employees doing 6-7 projects
+3. Most of the employees have spent 2-4 years in the firm whiles very few of them have spent about 7-10 years
+4. Most of the employees have not had any accident on the job whiles a vey few of them have had accidents.
+5. Most of the employees are in the sales, technical and support departments.
+6. Most of the employees receive low salary and few of them receive high salary.
+7. Very few number of employees have gotten promotion in the last five years.
+
+Also, When the user selects *Turnover Frequency on other Variables* he or she is provided automatically with a bar graph which shows whether an employee left the company or not based on other columns.
+
+
+
 
