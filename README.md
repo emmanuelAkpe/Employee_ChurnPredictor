@@ -81,8 +81,16 @@ In a similar way, a user can view the correlation matrix in order to determine t
 In order to visualize a cluster of the employees that leave the firm, the user has to click on *Visualize cluster of employees who quit* 
 
 ![ch1 6](https://user-images.githubusercontent.com/68768460/93791029-37e48700-fc23-11ea-8e75-303e6fb81b75.gif)
+
 Insights Made from this session:\
 Employees who left the company can be grouped into three clusters
 1. Employees who have high satisfaction and also high evaluation(shaded by green)
 2. Employees who have low satisfaction and High Evaluation(shaded by blue)
 3. Employees who have moderate satisfaction and moderate evaluation(Shaded by grey)
+
+When the user selects Prediction, he or she is allowed to enter the test_size(number of rows you want to test or validate your model with) and also the random state.The user now has the option to select either of the following machine learning models:
+1. Logistic Regression
+2. Decision Tree
+3. Random Forest
+4. Gradient Boosting classifier
+When the user selects any of the above classifiers, the model is automatically generated and then the model performance are displayed on the screen.
