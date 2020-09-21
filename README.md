@@ -17,3 +17,6 @@ The interface has three main sections name:
 Once the user selects Data Report, the system automatically generates all the statistical information on the dataset.
 
 
+![ch1 1](https://user-images.githubusercontent.com/68768460/93778754-c6520c00-fc15-11ea-82e1-f62ce81d178f.gif)
+
+
