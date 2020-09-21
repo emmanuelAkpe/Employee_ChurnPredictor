@@ -65,7 +65,7 @@ Also, When the user selects *Turnover Frequency on other Variables* he or she is
 Insights Made from this session:
 1. Turnover frequency based on salary levels\
  The highest number of employees who quit the firm receives low or medium salary while very few of them receiving high salary.
-2. Turnover frequency based on Department\ 
+2. Turnover frequency based on Department\
 The highest number of employees who quit the firm comes from the sales, technical and support departments.
 3. Turnover frequency based on Work accident\
 Most of the employees that left the firm did not have any work accident experience 
