@@ -60,6 +60,18 @@ Insights made from the Dataset:
 
 Also, When the user selects *Turnover Frequency on other Variables* he or she is provided automatically with a bar graph which shows whether an employee left the company or not based on other columns.
 
+![ch1 3](https://user-images.githubusercontent.com/68768460/93784844-f8b33780-fc1c-11ea-966b-a7659e3a761f.gif)
+
+Insights Made from this session:
+1. Turnover frequency based on salary levels:
+ The highest number of employees who quit the firm receives low or medium salary while very few of them receiving high salary.
+2. Turnover frequency based on Department 
+The highest number of employees who quit the firm comes from the sales, technical and support departments.
+3. Turnover frequency based on Work accident
+Most of the employees that left the firm did not have any work accident experience 
+4. None of the employees that had promotion in the last 5years left the firm whiles most of the employees that did not get any promotion for the past 5 years left.
+
+
 
 
 
