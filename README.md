@@ -79,3 +79,10 @@ In a similar way, a user can view the correlation matrix in order to determine t
 ![ch1 5](https://user-images.githubusercontent.com/68768460/93790092-2a7acd00-fc22-11ea-9065-20b421550e25.gif)
 
 In order to visualize a cluster of the employees that leave the firm, the user has to click on *Visualize cluster of employees who quit* 
+
+![ch1 6](https://user-images.githubusercontent.com/68768460/93791029-37e48700-fc23-11ea-8e75-303e6fb81b75.gif)
+Insights Made from this session:\
+Employees who left the company can be grouped into three clusters
+1. Employees who have high satisfaction and also high evaluation(shaded by green)
+2. Employees who have low satisfaction and High Evaluation(shaded by blue)
+3. Employees who have moderate satisfaction and moderate evaluation(Shaded by grey)
