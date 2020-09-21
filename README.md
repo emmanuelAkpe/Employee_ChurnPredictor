@@ -12,7 +12,7 @@ That is, the application will enable a firm to predict whether an employee will 
 The interface has three main sections name:
 1. Data Report
 2. Visualize_Datset
-3 Predictions\
+3. Predictions
 
 Once the user selects Data Report, the system automatically generates all the statistical information on the dataset.
 
