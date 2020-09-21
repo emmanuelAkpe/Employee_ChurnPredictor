@@ -76,3 +76,6 @@ Most of the employees that left the firm did not have any work accident experien
 
 In a similar way, a user can view the correlation matrix in order to determine the correlation between the target variable and the features.
 
+![ch1 5](https://user-images.githubusercontent.com/68768460/93790092-2a7acd00-fc22-11ea-9065-20b421550e25.gif)
+
+In order to visualize a cluster of the employees that leave the firm, the user has to click on *Visualize cluster of employees who quit* 
