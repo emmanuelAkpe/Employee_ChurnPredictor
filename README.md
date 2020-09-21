@@ -8,3 +8,12 @@ That is, the application will enable a firm to predict whether an employee will 
 
 ![Churn1](https://user-images.githubusercontent.com/68768460/93776747-6a868380-fc13-11ea-979a-3054578e5dd0.png)
 
+### How It WORKS
+The interface has three main sections name:
+1. Data Report
+2. Visualize_Datset
+3 Predictions\
+
+Once the user selects Data Report, the system automatically generates all the statistical information on the dataset.
+
+
