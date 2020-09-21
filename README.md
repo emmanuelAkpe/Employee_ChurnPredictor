@@ -101,4 +101,8 @@ WHen the results are generated and the user is not please with the results, he o
 The user can equally visualize the metrics associated with each model developed.
 
 ![ch1 8](https://user-images.githubusercontent.com/68768460/93793783-d1616800-fc26-11ea-9f8f-bcc23a9aa7a4.gif)
-Finally, the user predict whether an employee will leave the firm or not.
+
+Finally, the user can predict whether an employee will leave the firm or not by entering the feature values.
+
+
+![ch1 9](https://user-images.githubusercontent.com/68768460/93795203-96603400-fc28-11ea-97d1-689cbac465ba.gif)
