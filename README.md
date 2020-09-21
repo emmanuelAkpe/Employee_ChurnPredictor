@@ -72,6 +72,7 @@ Most of the employees that left the firm did not have any work accident experien
 4. Turnover based on Promotion\
  None of the employees that had promotion in the last 5years left the firm whiles most of the employees that did not get any promotion for the past 5 years left.
 
+![ch1 4](https://user-images.githubusercontent.com/68768460/93789319-37e38780-fc21-11ea-9f96-14e8326e2629.gif)
 
 
 
